@@ -87,7 +87,7 @@ function App() {
       <div className="container">
         <header className="header">
           <div>
-            <h1>CineMatch AI</h1>
+            <h1>FlixMind</h1>
             <p className="subtitle">Discover your next favorite movie with intelligent AI recommendations.</p>
           </div>
           <form className="search-form" onSubmit={handleSearch}>

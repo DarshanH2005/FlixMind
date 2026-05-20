@@ -1,4 +1,4 @@
-# 🎬 CineMatch AI — Intelligent Movie Recommendation System
+# 🎬 FlixMind — Intelligent Movie Recommendation System
 
 <div align="center">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
@@ -13,7 +13,7 @@
 
 ## 🌟 Project Overview
 
-**CineMatch AI** is a state-of-the-art, full-stack movie recommendation web application. It empowers users to explore, discover, and search for their next favorite cinematic experience using an intelligent Machine Learning engine.
+**FlixMind** is a state-of-the-art, full-stack movie recommendation web application. It empowers users to explore, discover, and search for their next favorite cinematic experience using an intelligent Machine Learning engine.
 
 Our custom-built **Content-Based Filtering Recommendation Engine** runs on mathematical similarity modeling (TF-IDF Vectorization & Cosine Similarity) to analyze genres and plot summaries, returning instantaneous recommendations.
 
@@ -103,8 +103,8 @@ Ensure you have **Python 3.10+** and **Node.js 18+** installed.
 
 ### 2. Clone the Repository
 ```bash
-git clone https://github.com/DarshanH2005/CineMatch-AI.git
-cd CineMatch-AI
+git clone https://github.com/DarshanH2005/FlixMind.git
+cd FlixMind
 ```
 
 ### 3. Backend Setup
@@ -143,7 +143,7 @@ npm run dev
 ## 📂 Project Structure
 
 ```bash
-CineMatch-AI/
+FlixMind/
 ├── backend/
 │   ├── venv/                 # Python Virtual Environment
 │   ├── main.py               # FastAPI Endpoints & CORS Setup
@@ -167,7 +167,7 @@ CineMatch-AI/
 
 ## 🤝 Project Management Principles
 
-CineMatch AI applies modern **Software Project Management (SPM)** concepts to optimize delivery, manage risks, and structure testing.
+FlixMind applies modern **Software Project Management (SPM)** concepts to optimize delivery, manage risks, and structure testing.
 
 ```text
 Requirement Analysis ──► Sprint Estimation ──► Risk Mitigation ──► Unit/System Testing ──► Maintenance
@@ -196,4 +196,4 @@ We actively mapped development risks to guarantee app stability:
 
 Distributed under the **MIT License**. Created by [DarshanH2005](https://github.com/DarshanH2005).
 
-⭐ *If you find CineMatch AI helpful, please star this repository!*
+⭐ *If you find FlixMind helpful, please star this repository!*
