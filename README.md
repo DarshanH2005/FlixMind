@@ -103,7 +103,7 @@ Ensure you have **Python 3.10+** and **Node.js 18+** installed.
 
 ### 2. Clone the Repository
 ```bash
-git clone https://github.com/DarshanH/CineMatch-AI.git
+git clone https://github.com/DarshanH2005/CineMatch-AI.git
 cd CineMatch-AI
 ```
 
@@ -194,6 +194,6 @@ We actively mapped development risks to guarantee app stability:
 
 ## 📜 License & Credit
 
-Distributed under the **MIT License**. Created by [DarshanH](https://github.com/DarshanH).
+Distributed under the **MIT License**. Created by [DarshanH2005](https://github.com/DarshanH2005).
 
 ⭐ *If you find CineMatch AI helpful, please star this repository!*
