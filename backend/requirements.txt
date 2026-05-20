@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+pandas
+scikit-learn
+httpx
+flask-cors # wait, we are using fastapi, we need fastapi.middleware.cors, so no need for flask-cors
+requests
